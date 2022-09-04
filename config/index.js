@@ -55,7 +55,7 @@ export const config = {
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
 //   CALLBACK_TEMPLATE_ID: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
-  CALLBACK_TEMPLATE_ID: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
+  CALLBACK_TEMPLATE_ID: "EkAEivLnfohRos7XYdVvPdfhdR5NOehNeTkwyU",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -63,7 +63,7 @@ export const config = {
       // 一般都填自己
       name: "温馨提示",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oJ3iK6HIQMTzXzgAh7NFUtr5t5y8",
+      id: "oJ3iK6HIQMTzXzgAfdfdFUtr5t5y8",
     }, 
   ],
     
