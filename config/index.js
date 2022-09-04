@@ -86,8 +86,8 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "小可爱", "year": "2000", "date": "10-30"},
-    {"type": "生日", "name": "酸酸不酸", "year": "2002", "date": "08-21"},
+    //     {"type": "生日", "name": "小可爱", "year": "2000", "date": "10-30"},
+    {"type": "生日", "name": "酸酸不酸", "year": "2002", "date": "09-16"},
     {"type": "节日", "name": "你的幸运日", "year": "2020", "date": "09-04"},
   ],
 
@@ -105,8 +105,8 @@ export const config = {
     * 比如：keyword: "love_date" ，在测试号中就是 {{ love_date.DATA }} 
     * */
   CUSTOMIZED_DATE_LIST: [
-    // 在一起的日子
-    {"keyword": "love_day", date: "2015-05-01"},
+    // 今天是个好日子
+//     {"keyword": "love_day", date: "2015-05-01"},
     // 结婚纪念日
     {"keyword": "marry_day", date: "2020-01-04"},
     // 退伍日, 不用可以删掉
