@@ -40,28 +40,12 @@ export const config = {
       openUrl: "https://pic.netbian.com/uploads/allimg/220902/002241-1662049361fbd4.jpg"
     }, 
     {
-      name: "老婆1", 
-      id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
-      useTemplateId: "Wue80GrtY1nAia4tam-FDxZF9WNx9pwcBc0LMpANnu8",
-      province: "广东",
-      city: "河源",
-      openUrl: "https://baidu.com"
-    }, 
-    {
-      name: "老婆2",
-      id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
-      useTemplateId: "Wue80GrtY1nAia4tam-FDxZF9WNx9pwcBc0LMpANnu8",
-      province: "广东",
-      city: "广州",
-      openUrl: "https://weibo.com"
-    }, 
-    {
-      name: "老婆3", 
-      id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk", 
-      useTemplateId: "Wue80GrtY1nAia4tam-FDxZF9WNx9pwcBc0LMpANnu8",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
+      name: "酸酸不酸", 
+      id: "oJ3iK6MqOqBCfRiBYueBMXlx9IcM",
+      useTemplateId: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
+      province: "河南",
+      city: "周口",
+      openUrl: "https://pic.netbian.com/uploads/allimg/220828/221243-16616959639b01.jpg"
     }, 
   ],
 
@@ -70,13 +54,13 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "zjVglIuCXo34CsraXWEio1i3P7sZJ7IQEES93lDsgc4yOU",
+  CALLBACK_TEMPLATE_ID: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
     {
       // 一般都填自己
-      name: "我恁爹",
+      name: "温馨提示",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oJ3iK6HIQMTzXzgAh7NFUtr5t5y8",
     }, 
@@ -103,7 +87,8 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "小可爱", "year": "2000", "date": "10-30"},
-    {"type": "节日", "name": "你的出关日", "year": "2020", "date": "09-04"},
+    {"type": "生日", "name": "酸酸不酸", "year": "2002", "date": "08-21"},
+    {"type": "节日", "name": "你的幸运日", "year": "2020", "date": "09-04"},
   ],
 
   /**
@@ -153,7 +138,7 @@ export const config = {
 
   // 好文节选的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: ""
+  LITERARY_PREFERENCE: "动画"
 
 
 }
