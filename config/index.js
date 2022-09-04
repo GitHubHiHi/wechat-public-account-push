@@ -18,9 +18,9 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "oJ3iK6HIQMTzXzgAh7NFUtr5t5y8"
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "tf7TcByA9nYPd5B0DeX2GePzuL8Jg8RTBCZpPFdOhQY",
+   *    useTemplateId: "gRUZQW_-yKgwdDzCfo1ZFXIu95HhqJ3R-04X9oQMpag",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-   *    openUrl: "https://wangxinleo.cn"
+   *    openUrl: "https://pic.netbian.com/uploads/allimg/220902/002241-1662049361fbd4.jpg"
    *   }, 
    * ]
    */
@@ -31,13 +31,13 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oJ3iK6HIQMTzXzgAh7NFUtr5t5y8",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "tf7TcByA9nYPd5B0DeX2GePzuL8Jg8RTBCZpPFdOhQY",
+      useTemplateId: "gRUZQW_-yKgwdDzCfo1ZFXIu95HhqJ3R-04X9oQMpag",
      // 所在省份
-      province: "广东",
+      province: "北京",
       // 所在城市
-      city: "肇庆",
+      city: "北京",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://pic.netbian.com/uploads/allimg/220902/002241-1662049361fbd4.jpg"
     }, 
     {
       name: "老婆1", 
