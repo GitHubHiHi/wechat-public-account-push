@@ -18,7 +18,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "oJ3iK6HIQMTzXzgAh7NFUtr5t5y8"
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "gRUZQW_-yKgwdDzCfo1ZFXIu95HhqJ3R-04X9oQMpag",
+   *    useTemplateId: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://pic.netbian.com/uploads/allimg/220902/002241-1662049361fbd4.jpg"
    *   }, 
@@ -31,7 +31,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oJ3iK6HIQMTzXzgAh7NFUtr5t5y8",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "gRUZQW_-yKgwdDzCfo1ZFXIu95HhqJ3R-04X9oQMpag",
+      useTemplateId: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
      // 所在省份
       province: "北京",
       // 所在城市
@@ -103,9 +103,7 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "小可爱", "year": "2000", "date": "10-30"},
-    {"type": "节日", "name": "出关日", "year": "2020", "date": "09-04"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    {"type": "节日", "name": "你的出关日", "year": "2020", "date": "09-04"},
   ],
 
   /**
