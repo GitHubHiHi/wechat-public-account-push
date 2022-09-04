@@ -37,7 +37,7 @@ export const config = {
       // 所在城市
       city: "北京",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://pic.netbian.com/uploads/allimg/220902/002241-1662049361fbd4.jpg"
+      openUrl: "https://pic.netbian.com/uploads/allimg/220610/005752-165479387251b5.jpg"
     }, 
 //     {
 //       name: "酸酸不酸", 
@@ -53,7 +53,7 @@ export const config = {
       useTemplateId: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
       province: "江苏",
       city: "苏州",
-      openUrl: "https://pic.netbian.com/uploads/allimg/220828/221243-16616959639b01.jpg"
+      openUrl: "https://pic.netbian.com/uploads/allimg/220610/005752-165479387251b5.jpg"
     }, 
   ],
 
@@ -99,7 +99,7 @@ export const config = {
 //     {"type": "生日", "name": "酸酸不酸", "year": "2002", "date": "09-16"},
     {"type": "节日", "name": "你的幸运日", "year": "2020", "date": "09-04"},
     {"type": "节日", "name": "从入门到入土", "year": "2020", "date": "09-07"},
-    {"type": "生日", "name": "乔某", "year": "1978", "date": "10-30"},
+    {"type": "生日", "name": "乔某", "year": "1922", "date": "10-30"},
     
   ],
 
