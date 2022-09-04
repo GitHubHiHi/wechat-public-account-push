@@ -39,14 +39,14 @@ export const config = {
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://pic.netbian.com/uploads/allimg/220902/002241-1662049361fbd4.jpg"
     }, 
-    {
-      name: "酸酸不酸", 
-      id: "oJ3iK6MqOqBCfRiBYueBMXlx9IcM",
-      useTemplateId: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
-      province: "河南",
-      city: "周口",
-      openUrl: "https://pic.netbian.com/uploads/allimg/220828/221243-16616959639b01.jpg"
-    }, 
+//     {
+//       name: "酸酸不酸", 
+//       id: "oJ3iK6MqOqBCfRiBYueBMXlx9IcM",
+//       useTemplateId: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
+//       province: "河南",
+//       city: "周口",
+//       openUrl: "https://pic.netbian.com/uploads/allimg/220828/221243-16616959639b01.jpg"
+//     }, 
   ],
 
   /**
@@ -86,8 +86,8 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    //     {"type": "生日", "name": "小可爱", "year": "2000", "date": "10-30"},
-    {"type": "生日", "name": "酸酸不酸", "year": "2002", "date": "09-16"},
+        {"type": "生日", "name": "小可爱", "year": "2000", "date": "10-30"},
+//     {"type": "生日", "name": "酸酸不酸", "year": "2002", "date": "09-16"},
     {"type": "节日", "name": "你的幸运日", "year": "2020", "date": "09-04"},
   ],
 
