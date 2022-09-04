@@ -47,6 +47,14 @@ export const config = {
 //       city: "周口",
 //       openUrl: "https://pic.netbian.com/uploads/allimg/220828/221243-16616959639b01.jpg"
 //     }, 
+        {
+      name: "氧气爆表", 
+      id: "oJ3iK6MPI5gIG_oilv7GCd-vGvz0",
+      useTemplateId: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
+      province: "江苏",
+      city: "苏州",
+      openUrl: "https://pic.netbian.com/uploads/allimg/220828/221243-16616959639b01.jpg"
+    }, 
   ],
 
   /**
@@ -87,9 +95,12 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-        {"type": "生日", "name": "小可爱", "year": "2000", "date": "10-30"},
+//         {"type": "生日", "name": "小可爱", "year": "2000", "date": "10-30"},
 //     {"type": "生日", "name": "酸酸不酸", "year": "2002", "date": "09-16"},
     {"type": "节日", "name": "你的幸运日", "year": "2020", "date": "09-04"},
+    {"type": "节日", "name": "从入门到入土", "year": "2020", "date": "09-07"},
+    {"type": "生日", "name": "乔某", "year": "1978", "date": "10-30"},
+    
   ],
 
   /**
