@@ -39,14 +39,14 @@ export const config = {
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://pic.netbian.com/uploads/allimg/220610/005752-165479387251b5.jpg"
     }, 
-//     {
-//       name: "酸酸不酸", 
-//       id: "oJ3iK6MqOqBCfRiBYueBMXlx9IcM",
-//       useTemplateId: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
-//       province: "河南",
-//       city: "周口",
-//       openUrl: "https://pic.netbian.com/uploads/allimg/220828/221243-16616959639b01.jpg"
-//     }, 
+    {
+      name: "陈醒醒", 
+      id: "oJ3iK6IB4fIbla4wO7fg0FYPFbyM",
+      useTemplateId: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
+      province: "北京",
+      city: "北京",
+      openUrl: "https://pic.netbian.com/uploads/allimg/171208/142214-15127141346d82.jpg"
+    }, 
 //         {
 //       name: "氧气爆表", 
 //       id: "oJ3iK6MPI5gIG_oilv7GCd-vGvz0",
@@ -97,9 +97,10 @@ export const config = {
   FESTIVALS: [
 //         {"type": "生日", "name": "小可爱", "year": "2000", "date": "11-23"},
 //     {"type": "生日", "name": "酸酸不酸", "year": "2002", "date": "09-16"},
-    {"type": "节日", "name": "你的幸运日", "year": "2020", "date": "04-06"},
-    {"type": "节日", "name": "从入门到入土", "year": "2020", "date": "10-01"},
-    {"type": "生日", "name": "您", "year": "2000", "date": "11-23"},
+    {"type": "节日", "name": "我们的纪念日", "year": "2020", "date": "10-05"},
+//     {"type": "节日", "name": "从入门到入土", "year": "2020", "date": "10-01"},
+    {"type": "生日", "name": "弟弟", "year": "2000", "date": "11-23"},
+     {"type": "生日", "name": "醒醒", "year": "2000", "date": "10-22"},
     
   ],
 
