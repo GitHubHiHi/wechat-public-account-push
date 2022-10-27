@@ -40,8 +40,8 @@ export const config = {
       openUrl: "https://pic.netbian.com/uploads/allimg/220610/005752-165479387251b5.jpg"
     }, 
     {
-      name: "陈醒醒", 
-      id: "oJ3iK6IB4fIbla4wO7fg0FYPFbyM",
+      name: "李柯优", 
+      id: "oJ3iK6J-AkNJkdCHeXqfv_Glp2Tc",
       useTemplateId: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
       province: "北京",
       city: "北京",
