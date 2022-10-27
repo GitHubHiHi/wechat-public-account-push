@@ -39,14 +39,14 @@ export const config = {
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://pic.netbian.com/uploads/allimg/220610/005752-165479387251b5.jpg"
     }, 
-    {
-      name: "李柯优", 
-      id: "oJ3iK6J-AkNJkdCHeXqfv_Glp2Tc",
-      useTemplateId: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
-      province: "北京",
-      city: "北京",
-      openUrl: "https://pic.netbian.com/uploads/allimg/171208/142214-15127141346d82.jpg"
-    }, 
+//     {
+//       name: "李柯优", 
+//       id: "oJ3iK6J-AkNJkdCHeXqfv_Glp2Tc",
+//       useTemplateId: "EkAEivLnfohRos7XYdVvP6yUHE2gD6R5NOehNeTkwyU",
+//       province: "北京",
+//       city: "北京",
+//       openUrl: "https://pic.netbian.com/uploads/allimg/171208/142214-15127141346d82.jpg"
+//     }, 
 //         {
 //       name: "氧气爆表", 
 //       id: "oJ3iK6MPI5gIG_oilv7GCd-vGvz0",
